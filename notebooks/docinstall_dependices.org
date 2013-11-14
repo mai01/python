@@ -1,6 +1,7 @@
 * installation:
 ** ipython-notebook
 
+* install the right version 1.0 with nbconvert integration!
 * Dependencies:
 Infosite: http://ipython.org/ipython-doc/stable/install/install.html#installnotebook
 ** python-pandas
@@ -16,5 +17,6 @@ Infosite: http://ipython.org/ipython-doc/stable/install/install.html#installnote
    install_mathjax()
 
 ** pandoc (converting notebooks to various formats)
-
+* Slideshow extension:
+** reveal.js: https://github.com/hakimel/reveal.js
 
