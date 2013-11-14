@@ -1,0 +1,20 @@
+* installation:
+** ipython-notebook
+
+* Dependencies:
+Infosite: http://ipython.org/ipython-doc/stable/install/install.html#installnotebook
+** python-pandas
+** python-scipy
+** python-synmpy
+** python-nose
+** python-jinja
+** python-zmq
+** python-tornado
+** pyzmq
+** mathjax:
+   from IPython.external.mathjax import install_mathjax
+   install_mathjax()
+
+** pandoc (converting notebooks to various formats)
+
+
