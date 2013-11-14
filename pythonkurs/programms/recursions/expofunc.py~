@@ -1,0 +1,14 @@
+def efunc(x,n):
+""" defined only for positive values of n
+calculate the function x^n recursivly
+"""
+    if n>0:
+        return efunc(x,n-1)*x
+    elif n==0:
+        return 1
+    else:
+        return "the function efunc(x,n) is only defined for posaitive values of n!"
+
+for i in range(4):
+    print "2^" + i + " = " + efunc(2,i)
+#    print efunc(i,2)
