@@ -1,0 +1,69 @@
+* TODO Arbeit
+** TODO Python Kurs (Frühjahr 2014)
+*** TODO Struktur
+**** Kurze Einführung in Git und installation für alle, oder schon vor installiert?
+***** Grund für GIT: Was bedeutet debuggen -> zusätzlich unittesting erwähnen
+**** Kurze Geschichtliche Einführung in Python und grundwesen dieser Sprache
+***** verwende python 2.7 mit bemerkungen zu 3.0
+**** 1. Programm:
+***** HalloWelt.py mal anders: print ausgabe in 2.7 als statement und in 3.0 als function
+**** 2. Programm:
+***** Variablen, Funktionen
+**** 3. Programm:
+*** TODO Softwareliste
+**** Python 2.7
+**** Python 3.0
+**** Editor: emacs, vi
+**** Betriebssystem: Linux - Ubuntu
+**** Software zum abspielen der latex-beamer-pdf
+*** TODO Fragen liste
+**** Python 2.7.* oder 3 oder beides (Einstieg mit 2.7 änderungen zu 3)?
+**** Rechner mit Linux oder Windows? Bevorzugt: Linux
+**** Zusätzliche kurze Einführung in git ok?
+** TODO Neuen Job
+** TODO [#A] MPI
+*** TODO [#A] vdicom
+    DEADLINE: <2013-08-16 Fr> SCHEDULED: <2013-08-15 Do>
+*** TODO [#B] python standards
+*** TODO [#C] orgmode
+*** TODO [#C] git
+** TODO [#B] web
+*** TODO [#B] Datenbanken,PHP,SQL,ASP
+*** TODO [#B] Übung: Kontaktformular -> Adressbuch
+*** TODO [#C] Festivalseite
+*** TODO [#A] Python und Webentwicklung
+
+
+* TODO Uni
+** TODO [#A] Planung Physik-Master
+   DEADLINE: <2013-09-06 Fr> SCHEDULED: <2013-08-15 Do>
+*** TODO Vorlesung für praktische Festkörperphysik suchen
+    (Kristallographie, )
+** TODO [#A] Planung Informatik
+   DEADLINE: <2013-08-16 Fr> SCHEDULED: <2013-08-15 Do>
+*** TODO Studienbeginn lesen
+*** TODO Beginn in Vorlesung einarbeiten
+**** TODO Literatur besorgen
+*** DONE Anmeldung zu den Übungen klären
+** TODO [#A] Praktikum M
+*** TODO [#A] Auswertung optisches Pumpen
+    DEADLINE: <2013-08-22 Do> SCHEDULED: <2013-08-15 Do>
+*** TODO [#B] Vorbereiten auf Kernspinresonanz 
+
+
+* TODO Freunde
+** TODO [#A] Standesamt Dalma & Phill -> Nadin anrufen
+   DEADLINE: <2013-08-14 Mi> SCHEDULED: <2013-08-15 Do>
+** TODO [#A] Geschenk Dalma und Phill
+   SCHEDULED: <2013-08-15 Do>
+** TODO [#B] Geburtstage:
+*** TODO Dima, Papa
+    DEADLINE: <2013-08-15 Do> SCHEDULED: <2013-08-15 Do>
+** TODO [#B] Hannah Trainingsplan, Schuhe, Traumeel S, Hausartzt
+
+* TODO Email
+** TODO mpi - VM
+** TODO markus- sej
+
+
+
