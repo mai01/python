@@ -1,3 +1,10 @@
+* Privat
+** TODO Besorgungen/erledigen
+*** HDMI-Kabel zu hause?
+*** Django-DVD besorgen
+*** Kalender weiter machen
+
+
 * TODO Arbeit
 ** TODO Python Kurs (Frühjahr 2014)
 *** TODO Struktur
@@ -20,9 +27,29 @@
 **** Python 2.7.* oder 3 oder beides (Einstieg mit 2.7 änderungen zu 3)?
 **** Rechner mit Linux oder Windows? Bevorzugt: Linux
 **** Zusätzliche kurze Einführung in git ok?
-** TODO Neuen Job
+** TODO SEJ
+*** TODO converter
+**** TODO BUSchluessel ermittlung
+**** TODO Bug: kurze Zeilen eleganter loesen - fehlermeldung eliminieren
 ** TODO [#A] MPI
-*** TODO [#A] vdicom
+*** TODO [#A] nf-helper
+**** TODO Bei Fehlermeldung zu unknown filetype
+***** TODO Anzeigen, von welchen filetype die heruntergeladenen Datei ist (Ganzen dateinamen der heruntergeladenen Datei)
+***** TODO Anzeigen von welchem filetype es sein muss (.exe)
+***** TODO Am besten: direkt auf online Doku verweisen!!(englische und deutsche fassung) oder direkt im browser oeffnen lassen, bei click on OK Button
+**** TODO Ladebalken anders als vor und zurueckspringend? Sonst schreiben, dass es so richtig ist, dass er vor und zurueckspringt 
+**** TODO Menue bei erstellung des SSH Keys verkuerzen
+**** TODO Nach speichern der rsa Datei:  
+***** TODO SSH key in zwischen Ablage kopiert?
+***** TODO Dem Anwender anweisung erteilen, was er als naechstes zu tun hat
+***** TODO Git Gui oeffnet sich noch nicht automatisch.
+*** TODO [#A] online Doku
+**** TODO File-Encoding auf UTF8 umstellen
+**** TODO Emacs einstellungen verbessern
+**** TODO [#A] Sollte auch durch die einzelnen Schritte des nfhelper fuehren
+**** TODO Tippfehler korriegieren
+**** TODO index.html fuer verlinkungen ergaenzen
+*** TODO [#B] vdicom
     DEADLINE: <2013-08-16 Fr> SCHEDULED: <2013-08-15 Do>
 *** TODO [#B] python standards
 *** TODO [#C] orgmode
